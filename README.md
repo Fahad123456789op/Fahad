@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm fahad 👋
 
-Welcome to my GitHub! I'm a [Your Profession or Role] with a passion for [Your Interests or Skills].
+Welcome to my GitHub! I'm a software engineer 
 
 ---
 
